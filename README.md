@@ -1,5 +1,5 @@
 ### :computer: Tecnologias usadas
-Projeto foi desenvolvido com as seguintes tecnologias:
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
 * Java
 * Spring Boot
@@ -10,10 +10,10 @@ Projeto foi desenvolvido com as seguintes tecnologias:
 * JUnit 4
 
 ### 💪 Projeto
-"Estacionamento" é um projeto que colocar em prática os conhecimentos adquiridos durante a "Beca", um programa de formação da everis.
+"Estacionamento" é um projeto que visa colocar em prática os conhecimentos adquiridos durante a "Beca", um programa de formação da everis.
 
 ### 🦸‍♂️ Motivação
-Foram 3 semanas de muito estudo e dedicação, 
+Foram 3 semanas de muitos estudos e de muita dedicação. No desafio pude mostrar os conhecimentos aplicados na prática criando uma aplicação pensando no contexto de um estacionamento, com CRUD.
 
 ### 🎓 Quem ministrou?
-O projeto teve orientação de vários instrutores seniors da everis.
+O projeto teve orientação de instrutores seniors da everis.
